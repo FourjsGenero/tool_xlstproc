@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <person>
+        <name>Jon Snow</name>
+        <email>js@got.com</email>
+        <gender>Male</gender>
+        <address>Mont Fleuri</address>
+        <zipcode>VICTORIA</zipcode>
+        <town>SEYCHELLES</town>
+        <country>SEYCHELLES</country>
+    </person>
+    <person>
+        <name>Daenerys Targaryen</name>
+        <email>dt@got.com</email>
+        <gender>Female</gender>
+        <address>Google Inc, 1600 Amphitheatre Parkway</address>
+        <zipcode>94043</zipcode>
+        <town>MOUNTAIN VIEW</town>
+        <country>UNITED STATES</country>
+    </person>
+    <person>
+        <name>Gregore Clegane</name>
+        <email>gc@got.com</email>
+        <gender>Male</gender>
+        <address>Royal Palace</address>
+        <zipcode>111 30</zipcode>
+        <town>STOCKHOLM</town>
+        <country>SWEDEN</country>
+    </person>
+    <person>
+        <name>Cersei Lannister</name>
+        <email>cl@got.com</email>
+        <gender>Female</gender>
+        <address>Basantapur</address>
+        <zipcode>44600</zipcode>
+        <town>KATHMANDU</town>
+        <country>NEPAL</country>
+    </person>
+    <person>
+        <name>Arya Stark</name>
+        <email>as@got.com</email>
+        <gender>Female</gender>
+        <address>Blizzard Entertainment, 16215 Alton Parkway</address>
+        <zipcode>67550</zipcode>
+        <town>IRVINE</town>
+        <country>UNITED STATES</country>
+    </person>
+    <person>
+        <name>Sansa Stark</name>
+        <email>sast@got.com</email>
+        <gender>Female</gender>
+        <address>The Robotics Society of Japan</address>
+        <zipcode>113-0033</zipcode>
+        <town>TOKYO</town>
+        <country>JAPAN</country>
+    </person>
+    <person>
+        <name>Tyrion Lannister</name>
+        <email>tl@got.com</email>
+        <gender>Male</gender>
+        <address>Machu Picchu</address>
+        <zipcode/>
+        <town>AGUAS CALIENTES</town>
+        <country>PERU</country>
+    </person>
+    <person>
+        <name>Khal Drogo</name>
+        <email>kd@got.com</email>
+        <gender>Male</gender>
+        <address>Wat Saket</address>
+        <zipcode/>
+        <town>BANGKOK</town>
+        <country>THAILAND</country>
+    </person>
+    <person>
+        <name>Joffrey Baratheon</name>
+        <email>jb@got.com</email>
+        <gender>Male</gender>
+        <address>Place de la Cathedrale</address>
+        <zipcode>67000</zipcode>
+        <town>STRASBOURG</town>
+        <country>FRANCE</country>
+    </person>
+    <person>
+        <name>Lord Varys</name>
+        <email>lv@got.com</email>
+        <gender>Male</gender>
+        <address>Camp Nou</address>
+        <zipcode>08028</zipcode>
+        <town>BARCELONA</town>
+        <country>SPAIN</country>
+    </person>
+    <person>
+        <name>Margaery Tyrell</name>
+        <email>mt@got.com</email>
+        <gender>Female</gender>
+        <address>Pub Molly Malone's</address>
+        <zipcode>67000</zipcode>
+        <town>STRASBOURG</town>
+        <country>FRANCE</country>
+    </person>
+    <person>
+        <name>Ramsay Bolton</name>
+        <email>rb@got.com</email>
+        <gender>Male</gender>
+        <address>Tour Eiffel</address>
+        <zipcode>75007</zipcode>
+        <town>PARIS</town>
+        <country>FRANCE</country>
+    </person>
+    <person>
+        <name>Sandor Clegane</name>
+        <email>sc@got.com</email>
+        <gender>Male</gender>
+        <address>Colosseum</address>
+        <zipcode>00184</zipcode>
+        <town>ROMA</town>
+        <country>ITALY</country>
+    </person>
+    <person>
+        <name>Eddard Stark</name>
+        <email>es@got.com</email>
+        <gender>Male</gender>
+        <address>Kremlin</address>
+        <zipcode>103073</zipcode>
+        <town>MOSCOW</town>
+        <country>RUSSIA</country>
+    </person>
+    <person>
+        <name>Petyr Baelish</name>
+        <email>pb@got.com</email>
+        <gender>Male</gender>
+        <address>Jemaa el-Fna</address>
+        <zipcode>40000</zipcode>
+        <town>MARRAKESH</town>
+        <country>MOROCCO</country>
+    </person>
+    <person>
+        <name>Jaime Lannister</name>
+        <email>jl@got.com</email>
+        <gender>Male</gender>
+        <address>Pariser Platz</address>
+        <zipcode>10117</zipcode>
+        <town>BERLIN</town>
+        <country>GERMANY</country>
+    </person>
+    <person>
+        <name>Stannis Baratheon</name>
+        <email>sb@got.com</email>
+        <gender>Male</gender>
+        <address>Max-Joseph-Platz 1</address>
+        <zipcode>80539</zipcode>
+        <town>MUNCHEN</town>
+        <country>GERMANY</country>
+    </person>
+    <person>
+        <name>Robb Stark</name>
+        <email>rost@got.com</email>
+        <gender>Male</gender>
+        <address>62 Allee du Majestic</address>
+        <zipcode>74400</zipcode>
+        <town>CHAMONIX</town>
+        <country>FRANCE</country>
+    </person>
+    <person>
+        <name>Jorah Mormont</name>
+        <email>jomo@got.com</email>
+        <gender>Male</gender>
+        <address>Hellfest Productions</address>
+        <zipcode>49270</zipcode>
+        <town>LE FUILET</town>
+        <country>FRANCE</country>
+    </person>
+    <person>
+        <name>Loras Tyrell</name>
+        <email>loty@got.com</email>
+        <gender>Male</gender>
+        <address>Parthenon</address>
+        <zipcode/>
+        <town>ATHENS</town>
+        <country>GREECE</country>
+    </person>
+    <person>
+        <name>Bran Stark</name>
+        <email>bs@got.com</email>
+        <gender>Male</gender>
+        <address>Le Grand Ballon</address>
+        <zipcode>68360</zipcode>
+        <town>GEISHOUSE</town>
+        <country>FRANCE</country>
+    </person>
+</list>
